@@ -181,7 +181,7 @@ function gameflash(btn) {
 
         btn.classList.remove("flash");
 
-    }, 20);
+    }, 15);
 }
 
 function userflash(btn) {
